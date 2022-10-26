@@ -1,0 +1,26 @@
+{
+  "name": "assignment1-webserver",
+  "version": "1.0.0",
+  "description": "Simple web server for assignment 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a01-valeriesho.git"
+  },
+  "keywords": [
+    "web",
+    "server"
+  ],
+  "author": "@valeriesho",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a01-valeriesho/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a01-valeriesho#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
